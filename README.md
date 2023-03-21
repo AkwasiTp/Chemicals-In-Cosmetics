@@ -57,20 +57,14 @@ During the exploration phase of the Analysis, the following issues were uncovere
 
 ## Solution to Project Questions
 
- - ![SQL Queries](https://github.com/AkwasiTp/Chemicals-In-Cosmetics/blob/main/Chemicals%20In%20Cosmetic.sql)
- 
- - ![Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYjA1OTkwYmUtNTM4Ni00ZWNmLTgwY2EtZTg5ZWVjMzllMDQ4IiwidCI6ImE5NjMwYTViLTA5M2EtNDM5Yy04NjM5LThhYmJmMzRhN2M5NyJ9)
- 
-  - ![Documentation | Word Document](https://github.com/AkwasiTp/Chemicals-In-Cosmetics/blob/main/Project%20Document.docx)
+ - [SQL Queries](https://github.com/AkwasiTp/Chemicals-In-Cosmetics/blob/main/Chemicals%20In%20Cosmetic.sql)
+ - [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYjA1OTkwYmUtNTM4Ni00ZWNmLTgwY2EtZTg5ZWVjMzllMDQ4IiwidCI6ImE5NjMwYTViLTA5M2EtNDM5Yy04NjM5LThhYmJmMzRhN2M5NyJ9)
+ - [Documentation | Word Document](https://github.com/AkwasiTp/Chemicals-In-Cosmetics/blob/main/Project%20Document.docx)
  
  
  ## Key Insights
  
  ![](Report.png)
-
-
-
-
 
 
 
